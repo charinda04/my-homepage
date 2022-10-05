@@ -43,9 +43,9 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Charinda Dissanayake
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Software Engineer ( Web / Mobile )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -109,8 +109,8 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          <BioYear>1994</BioYear>
+          Born in Kandy , Sri Lanka.
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
